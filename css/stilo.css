@@ -1,5 +1,4 @@
 body{
-  background: url(../img/fondo.gif);
   font-family: 'Titillium Web', sans-serif;
   margin: 0;
 }
@@ -36,7 +35,6 @@ body{
 
 
 #imgopciones{
-  background: url(http://www.azulweb.net/wp-content/uploads/2014/07/loggin.png) no-repeat rgba(500,500,500,0.70);
   background-position: bottom right;
   border-radius: 5px;
   box-shadow: 0px 0px 15px #000000;
