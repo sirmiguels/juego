@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 var vpiedra
 var vpapel 
-var vtijera
+var vtijeras
 var vlagarto 
 
 var vspock 
